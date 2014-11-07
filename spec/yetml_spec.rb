@@ -1,0 +1,2 @@
+describe Yetml do
+end
